@@ -137,7 +137,7 @@
 
 
 
-/*  General CSS*/
+
 .wrapper{
 	max-width: 1200px;
 	height: auto;
@@ -177,40 +177,7 @@ header .logo{
     font-family: 'Lobster', cursive;
 }
 
-/*header nav{
-    overflow: hidden;
-    margin: 20px 0 0 40px;
-    display: inline-block;
-    padding: 13px 40px;
-    border-left: 1px #404040 solid;
-    z-index: 9999;
-}
 
-header nav ul{
-    list-style: none;
-}
-
-header nav ul li{
-    float: left;
-    margin-left: 35px;
-    font-size: 16px;
-    font-family: 'lato_regular', arial;
-    letter-spacing: 1px;
-}
-
-header nav ul li:first-child{
-    margin-left: 0;
-}
-
-header nav ul li a {
-    text-decoration: none;
-    color: #fff;
-}
-
-header nav ul li a:hover{
-    color: #65bf95;
-}
-*/
 header .right_nav{
     overflow: hidden;
     display: inline-block;
@@ -316,7 +283,7 @@ header .right_nav li a:hover{
 .desc p{
     margin-bottom: 20px;
     color: #9e9e9e;
-    /*font-family: "lato_regular", arial;*/
+ 
     font-size: 15px;
     line-height: 22px
 }
